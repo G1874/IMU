@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.metadata/
+
+# Stm32 Cube IDE
+.cproject
+.mxproject
+.project
+*.ioc
+*.ld
+IMU/.settings
+IMU/Drivers
+IMU/Core
